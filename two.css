@@ -1,0 +1,12 @@
+.header-2 {
+    color: teal;
+    font: arial; 
+    font-weight: bold;
+    font-size: 36pt;
+}
+.footer {
+    color: indigo;
+    size: 24pt;
+    font-weight: bold;
+    font: comic;
+}
